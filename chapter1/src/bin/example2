@@ -1,7 +1,0 @@
-fn main(){
-   let name="Arshad";
-   let age="20";
-   println!("Name: {name}");
-   println!("Age: {age}");
-}
-
