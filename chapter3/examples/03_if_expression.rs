@@ -4,7 +4,6 @@ fn main() {
          50
      } else { 
          100
-
      };
      println!("price: {price}");
 }
